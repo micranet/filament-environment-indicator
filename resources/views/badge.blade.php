@@ -3,7 +3,7 @@
 @endphp
 <div
     class="
-        environment-indicator
+        text-sm environment-indicator
         fi-badge fi-color fi-text-color-600
         dark:fi-text-color-400
     "
